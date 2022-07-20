@@ -1,9 +1,9 @@
 [
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 30862,
-    "open_issues_count": 731,
-    "forks_count": 2525
+    "stargazers_count": 30890,
+    "open_issues_count": 730,
+    "forks_count": 2531
   },
   {
     "full_name": "nodenv/nodenv",
@@ -13,37 +13,37 @@
   },
   {
     "full_name": "celzero/rethink-app",
-    "stargazers_count": 768,
-    "open_issues_count": 136,
+    "stargazers_count": 770,
+    "open_issues_count": 137,
     "forks_count": 52
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 13676,
-    "open_issues_count": 637,
-    "forks_count": 1300
+    "stargazers_count": 13697,
+    "open_issues_count": 639,
+    "forks_count": 1302
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 32488,
-    "open_issues_count": 292,
-    "forks_count": 866
+    "stargazers_count": 32505,
+    "open_issues_count": 294,
+    "forks_count": 868
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 75167,
-    "open_issues_count": 2851,
+    "stargazers_count": 75191,
+    "open_issues_count": 2856,
     "forks_count": 4267
   },
   {
     "full_name": "react-boilerplate/react-boilerplate",
-    "stargazers_count": 28571,
+    "stargazers_count": 28576,
     "open_issues_count": 97,
-    "forks_count": 6080
+    "forks_count": 6082
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 22163,
+    "stargazers_count": 22188,
     "open_issues_count": 83,
     "forks_count": 2322
   },
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 94617,
-    "open_issues_count": 142,
-    "forks_count": 9666
+    "stargazers_count": 94645,
+    "open_issues_count": 143,
+    "forks_count": 9673
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 12530,
-    "open_issues_count": 82,
-    "forks_count": 716
+    "stargazers_count": 12547,
+    "open_issues_count": 80,
+    "forks_count": 717
   },
   {
     "full_name": "standardnotes/app",
-    "stargazers_count": 3451,
-    "open_issues_count": 146,
+    "stargazers_count": 3453,
+    "open_issues_count": 148,
     "forks_count": 284
   },
   {
     "full_name": "FortAwesome/Font-Awesome",
-    "stargazers_count": 69696,
-    "open_issues_count": 5307,
-    "forks_count": 12093
+    "stargazers_count": 69706,
+    "open_issues_count": 5308,
+    "forks_count": 12094
   },
   {
     "full_name": "codesandbox/codesandbox-client",
-    "stargazers_count": 11685,
-    "open_issues_count": 315,
+    "stargazers_count": 11689,
+    "open_issues_count": 313,
     "forks_count": 1960
   },
   {
     "full_name": "monkeytypegame/monkeytype",
-    "stargazers_count": 7265,
-    "open_issues_count": 40,
+    "stargazers_count": 7276,
+    "open_issues_count": 35,
     "forks_count": 1060
   },
   {
     "full_name": "careercup/CtCI-6th-Edition",
-    "stargazers_count": 10058,
+    "stargazers_count": 10061,
     "open_issues_count": 135,
     "forks_count": 4113
   },
   {
     "full_name": "egonSchiele/grokking_algorithms",
-    "stargazers_count": 7513,
+    "stargazers_count": 7519,
     "open_issues_count": 64,
-    "forks_count": 2843
+    "forks_count": 2846
   },
   {
     "full_name": "david2999999/Leet-Code-Youtube",
@@ -109,55 +109,55 @@
   },
   {
     "full_name": "typesense/typesense",
-    "stargazers_count": 10343,
-    "open_issues_count": 175,
+    "stargazers_count": 10347,
+    "open_issues_count": 177,
     "forks_count": 296
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 18213,
-    "open_issues_count": 85,
-    "forks_count": 3240
+    "stargazers_count": 18226,
+    "open_issues_count": 86,
+    "forks_count": 3241
   },
   {
     "full_name": "rafgraph/spa-github-pages",
-    "stargazers_count": 3163,
+    "stargazers_count": 3166,
     "open_issues_count": 4,
     "forks_count": 508
   },
   {
     "full_name": "ossu/computer-science",
-    "stargazers_count": 119977,
+    "stargazers_count": 120044,
     "open_issues_count": 6,
-    "forks_count": 16097
+    "forks_count": 16106
   },
   {
     "full_name": "conwnet/github1s",
-    "stargazers_count": 21074,
+    "stargazers_count": 21072,
     "open_issues_count": 55,
     "forks_count": 725
   },
   {
     "full_name": "gothinkster/realworld",
-    "stargazers_count": 67125,
+    "stargazers_count": 67177,
     "open_issues_count": 58,
-    "forks_count": 6227
+    "forks_count": 6241
   },
   {
     "full_name": "elastic/eui",
-    "stargazers_count": 5192,
-    "open_issues_count": 376,
+    "stargazers_count": 5198,
+    "open_issues_count": 373,
     "forks_count": 692
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 34926,
+    "stargazers_count": 34965,
     "open_issues_count": 196,
-    "forks_count": 5218
+    "forks_count": 5233
   },
   {
     "full_name": "rsms/inter",
-    "stargazers_count": 14027,
+    "stargazers_count": 14034,
     "open_issues_count": 77,
     "forks_count": 356
   },
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 201942,
-    "open_issues_count": 174,
-    "forks_count": 28790
+    "stargazers_count": 202176,
+    "open_issues_count": 176,
+    "forks_count": 28823
   },
   {
     "full_name": "SamSamskies/react-map-gl-geocoder",
