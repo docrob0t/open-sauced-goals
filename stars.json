@@ -1,21 +1,27 @@
 [
   {
+    "full_name": "octoenergy/public-conventions",
+    "stargazers_count": 557,
+    "open_issues_count": 4,
+    "forks_count": 66
+  },
+  {
     "full_name": "supabase/supabase",
-    "stargazers_count": 65791,
-    "open_issues_count": 377,
-    "forks_count": 6137
+    "stargazers_count": 65936,
+    "open_issues_count": 384,
+    "forks_count": 6153
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 37485,
-    "open_issues_count": 110,
-    "forks_count": 4681
+    "stargazers_count": 37512,
+    "open_issues_count": 107,
+    "forks_count": 4683
   },
   {
     "full_name": "radix-ui/website",
-    "stargazers_count": 771,
-    "open_issues_count": 28,
-    "forks_count": 362
+    "stargazers_count": 772,
+    "open_issues_count": 29,
+    "forks_count": 364
   },
   {
     "full_name": "fcrozatier/champagne",
@@ -25,14 +31,14 @@
   },
   {
     "full_name": "radix-ui/themes",
-    "stargazers_count": 4076,
-    "open_issues_count": 31,
-    "forks_count": 129
+    "stargazers_count": 4101,
+    "open_issues_count": 32,
+    "forks_count": 133
   },
   {
     "full_name": "themesberg/flowbite",
-    "stargazers_count": 6924,
-    "open_issues_count": 181,
+    "stargazers_count": 6940,
+    "open_issues_count": 182,
     "forks_count": 686
   },
   {
@@ -43,33 +49,33 @@
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 28592,
-    "open_issues_count": 823,
-    "forks_count": 6478
+    "stargazers_count": 28633,
+    "open_issues_count": 837,
+    "forks_count": 6501
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 14989,
-    "open_issues_count": 91,
+    "stargazers_count": 15024,
+    "open_issues_count": 92,
     "forks_count": 565
   },
   {
     "full_name": "inovua/reactdatagrid",
     "stargazers_count": 3444,
     "open_issues_count": 112,
-    "forks_count": 52
+    "forks_count": 54
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 11508,
-    "open_issues_count": 2600,
-    "forks_count": 2512
+    "stargazers_count": 11521,
+    "open_issues_count": 2597,
+    "forks_count": 2514
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 5617,
+    "stargazers_count": 5629,
     "open_issues_count": 35,
-    "forks_count": 215
+    "forks_count": 216
   },
   {
     "full_name": "g0v/moedict-webkit",
@@ -79,7 +85,7 @@
   },
   {
     "full_name": "sc0ty/subsync",
-    "stargazers_count": 1197,
+    "stargazers_count": 1200,
     "open_issues_count": 60,
     "forks_count": 52
   },
@@ -91,92 +97,86 @@
   },
   {
     "full_name": "kenp-io/not-for-airpods-repairs",
-    "stargazers_count": 518,
+    "stargazers_count": 517,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 32469,
-    "open_issues_count": 393,
-    "forks_count": 1941
+    "stargazers_count": 32578,
+    "open_issues_count": 419,
+    "forks_count": 1951
   },
   {
     "full_name": "ChrisAnd1998/TaskbarX",
-    "stargazers_count": 7622,
-    "open_issues_count": 148,
-    "forks_count": 482
+    "stargazers_count": 7623,
+    "open_issues_count": 149,
+    "forks_count": 481
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 72756,
-    "open_issues_count": 1618,
-    "forks_count": 6512
+    "stargazers_count": 72955,
+    "open_issues_count": 1634,
+    "forks_count": 6533
   },
   {
     "full_name": "nodenv/nodenv",
-    "stargazers_count": 2162,
+    "stargazers_count": 2166,
     "open_issues_count": 13,
-    "forks_count": 136
+    "forks_count": 137
   },
   {
     "full_name": "celzero/rethink-app",
-    "stargazers_count": 2364,
-    "open_issues_count": 289,
+    "stargazers_count": 2376,
+    "open_issues_count": 282,
     "forks_count": 122
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 21957,
-    "open_issues_count": 959,
-    "forks_count": 2166
+    "stargazers_count": 21978,
+    "open_issues_count": 968,
+    "forks_count": 2170
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 37263,
-    "open_issues_count": 429,
+    "stargazers_count": 37275,
+    "open_issues_count": 430,
     "forks_count": 1086
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 104287,
-    "open_issues_count": 5617,
-    "forks_count": 6142
+    "stargazers_count": 104367,
+    "open_issues_count": 5619,
+    "forks_count": 6145
   },
   {
     "full_name": "react-boilerplate/react-boilerplate",
     "stargazers_count": 29383,
     "open_issues_count": 123,
-    "forks_count": 6121
+    "forks_count": 6120
   },
   {
     "full_name": "coreybutler/nvm-windows",
-    "stargazers_count": 34550,
-    "open_issues_count": 80,
-    "forks_count": 3174
+    "stargazers_count": 34635,
+    "open_issues_count": 82,
+    "forks_count": 3177
   },
   {
     "full_name": "gmertes/NflxMultiSubs",
-    "stargazers_count": 137,
+    "stargazers_count": 138,
     "open_issues_count": 7,
     "forks_count": 22
   },
   {
     "full_name": "axios/axios",
-    "stargazers_count": 104005,
-    "open_issues_count": 691,
-    "forks_count": 10712
+    "stargazers_count": 104036,
+    "open_issues_count": 694,
+    "forks_count": 10716
   },
   {
     "full_name": "mantinedev/mantine",
-    "stargazers_count": 24229,
-    "open_issues_count": 43,
-    "forks_count": 1737
-  },
-  {
-    "full_name": "standardnotes/app",
-    "stargazers_count": 4900,
-    "open_issues_count": 82,
-    "forks_count": 382
+    "stargazers_count": 24263,
+    "open_issues_count": 39,
+    "forks_count": 1741
   }
 ]
