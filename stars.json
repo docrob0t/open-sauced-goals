@@ -1,69 +1,69 @@
 [
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 60793,
+    "stargazers_count": 60894,
     "open_issues_count": 911,
-    "forks_count": 4067
+    "forks_count": 4065
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 52110,
-    "open_issues_count": 753,
-    "forks_count": 3611
+    "stargazers_count": 52276,
+    "open_issues_count": 676,
+    "forks_count": 3629
   },
   {
     "full_name": "formaat-design/reshaped",
-    "stargazers_count": 134,
+    "stargazers_count": 136,
     "open_issues_count": 25,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "ashishps1/awesome-leetcode-resources",
-    "stargazers_count": 8218,
+    "stargazers_count": 8322,
     "open_issues_count": 8,
-    "forks_count": 2051
+    "forks_count": 2061
   },
   {
     "full_name": "medusajs/nextjs-starter-medusa",
-    "stargazers_count": 1994,
-    "open_issues_count": 35,
-    "forks_count": 602
+    "stargazers_count": 2009,
+    "open_issues_count": 37,
+    "forks_count": 606
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 27741,
-    "open_issues_count": 120,
-    "forks_count": 2945
+    "stargazers_count": 27812,
+    "open_issues_count": 121,
+    "forks_count": 2966
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11541,
+    "stargazers_count": 11547,
     "open_issues_count": 123,
     "forks_count": 367
   },
   {
     "full_name": "octoenergy/public-conventions",
-    "stargazers_count": 679,
+    "stargazers_count": 680,
     "open_issues_count": 7,
     "forks_count": 85
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 77744,
-    "open_issues_count": 645,
-    "forks_count": 7753
+    "stargazers_count": 77967,
+    "open_issues_count": 628,
+    "forks_count": 7790
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 40180,
-    "open_issues_count": 136,
-    "forks_count": 4869
+    "stargazers_count": 40207,
+    "open_issues_count": 138,
+    "forks_count": 4872
   },
   {
     "full_name": "radix-ui/website",
-    "stargazers_count": 872,
+    "stargazers_count": 873,
     "open_issues_count": 12,
-    "forks_count": 474
+    "forks_count": 475
   },
   {
     "full_name": "fcrozatier/champagne",
@@ -73,14 +73,14 @@
   },
   {
     "full_name": "radix-ui/themes",
-    "stargazers_count": 6247,
+    "stargazers_count": 6280,
     "open_issues_count": 102,
-    "forks_count": 225
+    "forks_count": 226
   },
   {
     "full_name": "themesberg/flowbite",
-    "stargazers_count": 8285,
-    "open_issues_count": 202,
+    "stargazers_count": 8295,
+    "open_issues_count": 204,
     "forks_count": 772
   },
   {
@@ -91,27 +91,27 @@
   },
   {
     "full_name": "calcom/cal.com",
-    "stargazers_count": 34146,
-    "open_issues_count": 1058,
-    "forks_count": 8676
+    "stargazers_count": 34191,
+    "open_issues_count": 1051,
+    "forks_count": 8699
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 16658,
+    "stargazers_count": 16668,
     "open_issues_count": 127,
-    "forks_count": 630
+    "forks_count": 629
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 12690,
-    "open_issues_count": 3321,
-    "forks_count": 2757
+    "stargazers_count": 12706,
+    "open_issues_count": 3346,
+    "forks_count": 2761
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 6705,
+    "stargazers_count": 6718,
     "open_issues_count": 45,
-    "forks_count": 255
+    "forks_count": 256
   },
   {
     "full_name": "g0v/moedict-webkit",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 38934,
-    "open_issues_count": 322,
-    "forks_count": 2399
+    "stargazers_count": 38978,
+    "open_issues_count": 332,
+    "forks_count": 2406
   },
   {
     "full_name": "ChrisAnd1998/TaskbarX",
-    "stargazers_count": 7854,
+    "stargazers_count": 7851,
     "open_issues_count": 155,
     "forks_count": 485
   },
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 92765,
-    "open_issues_count": 2049,
-    "forks_count": 8884
+    "stargazers_count": 93053,
+    "open_issues_count": 2060,
+    "forks_count": 8910
   },
   {
     "full_name": "nodenv/nodenv",
     "stargazers_count": 2271,
     "open_issues_count": 8,
-    "forks_count": 141
+    "forks_count": 142
   },
   {
     "full_name": "celzero/rethink-app",
-    "stargazers_count": 3271,
-    "open_issues_count": 420,
+    "stargazers_count": 3276,
+    "open_issues_count": 422,
     "forks_count": 162
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 24658,
-    "open_issues_count": 672,
-    "forks_count": 2451
+    "stargazers_count": 24705,
+    "open_issues_count": 690,
+    "forks_count": 2459
   },
   {
     "full_name": "evanw/esbuild",
-    "stargazers_count": 38581,
-    "open_issues_count": 524,
-    "forks_count": 1183
+    "stargazers_count": 38601,
+    "open_issues_count": 525,
+    "forks_count": 1184
   }
 ]
