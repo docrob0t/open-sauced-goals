@@ -1,45 +1,45 @@
 [
   {
     "full_name": "datahub-project/datahub",
-    "stargazers_count": 12151,
+    "stargazers_count": 12156,
     "open_issues_count": 937,
-    "forks_count": 3526
+    "forks_count": 3525
   },
   {
     "full_name": "open-metadata/OpenMetadata",
-    "stargazers_count": 14307,
-    "open_issues_count": 972,
-    "forks_count": 2186
+    "stargazers_count": 14343,
+    "open_issues_count": 977,
+    "forks_count": 2190
   },
   {
     "full_name": "anonaddy/anonaddy",
-    "stargazers_count": 4713,
-    "open_issues_count": 60,
-    "forks_count": 265
+    "stargazers_count": 4722,
+    "open_issues_count": 61,
+    "forks_count": 264
   },
   {
     "full_name": "PostHog/posthog",
-    "stargazers_count": 35171,
-    "open_issues_count": 3886,
-    "forks_count": 2893
+    "stargazers_count": 35233,
+    "open_issues_count": 4027,
+    "forks_count": 2904
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 104443,
-    "open_issues_count": 654,
-    "forks_count": 5943
+    "stargazers_count": 104708,
+    "open_issues_count": 665,
+    "forks_count": 5970
   },
   {
     "full_name": "AppFlowy-IO/AppFlowy",
-    "stargazers_count": 72957,
-    "open_issues_count": 1034,
-    "forks_count": 5526
+    "stargazers_count": 73100,
+    "open_issues_count": 1037,
+    "forks_count": 5553
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 63617,
-    "open_issues_count": 673,
-    "forks_count": 4872
+    "stargazers_count": 63676,
+    "open_issues_count": 658,
+    "forks_count": 4884
   },
   {
     "full_name": "reshaped-ui/reshaped-examples",
@@ -49,25 +49,25 @@
   },
   {
     "full_name": "ashishps1/awesome-leetcode-resources",
-    "stargazers_count": 17015,
+    "stargazers_count": 17101,
     "open_issues_count": 20,
-    "forks_count": 3588
+    "forks_count": 3607
   },
   {
     "full_name": "medusajs/nextjs-starter-medusa",
-    "stargazers_count": 2778,
+    "stargazers_count": 2779,
     "open_issues_count": 22,
-    "forks_count": 988
+    "forks_count": 986
   },
   {
     "full_name": "medusajs/medusa",
-    "stargazers_count": 34640,
-    "open_issues_count": 129,
-    "forks_count": 4774
+    "stargazers_count": 34812,
+    "open_issues_count": 135,
+    "forks_count": 4812
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 12489,
+    "stargazers_count": 12495,
     "open_issues_count": 139,
     "forks_count": 455
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 104858,
-    "open_issues_count": 1093,
-    "forks_count": 12874
+    "stargazers_count": 105038,
+    "open_issues_count": 1087,
+    "forks_count": 12908
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 43676,
-    "open_issues_count": 151,
-    "forks_count": 5157
+    "stargazers_count": 43699,
+    "open_issues_count": 157,
+    "forks_count": 5161
   },
   {
     "full_name": "radix-ui/website",
@@ -103,15 +103,15 @@
   },
   {
     "full_name": "radix-ui/themes",
-    "stargazers_count": 8499,
+    "stargazers_count": 8506,
     "open_issues_count": 160,
     "forks_count": 328
   },
   {
     "full_name": "themesberg/flowbite",
-    "stargazers_count": 9285,
+    "stargazers_count": 9289,
     "open_issues_count": 258,
-    "forks_count": 868
+    "forks_count": 870
   },
   {
     "full_name": "skiff-org/skiff-ui",
@@ -121,25 +121,25 @@
   },
   {
     "full_name": "calcom/cal.diy",
-    "stargazers_count": 45849,
-    "open_issues_count": 1306,
-    "forks_count": 14215
+    "stargazers_count": 45964,
+    "open_issues_count": 1315,
+    "forks_count": 14270
   },
   {
     "full_name": "motion-canvas/motion-canvas",
-    "stargazers_count": 18703,
+    "stargazers_count": 18721,
     "open_issues_count": 170,
     "forks_count": 783
   },
   {
     "full_name": "musescore/MuseScore",
-    "stargazers_count": 14774,
-    "open_issues_count": 3951,
-    "forks_count": 3206
+    "stargazers_count": 14781,
+    "open_issues_count": 3945,
+    "forks_count": 3209
   },
   {
     "full_name": "tsconfig/bases",
-    "stargazers_count": 7824,
+    "stargazers_count": 7829,
     "open_issues_count": 55,
     "forks_count": 284
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "kenp-io/not-for-airpods-repairs",
-    "stargazers_count": 605,
+    "stargazers_count": 606,
     "open_issues_count": 1,
     "forks_count": 46
   },
   {
     "full_name": "tldraw/tldraw",
-    "stargazers_count": 48319,
-    "open_issues_count": 426,
-    "forks_count": 3343
+    "stargazers_count": 48423,
+    "open_issues_count": 434,
+    "forks_count": 3354
   },
   {
     "full_name": "ChrisAnd1998/TaskbarX",
-    "stargazers_count": 8020,
+    "stargazers_count": 8021,
     "open_issues_count": 158,
     "forks_count": 490
   }
